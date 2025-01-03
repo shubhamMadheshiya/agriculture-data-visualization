@@ -9,9 +9,8 @@ This project visualizes agricultural data, showcasing crop production trends and
 - [Technologies Used](#technologies-used)
 - [Dataset](#dataset)
 - [Setup Instructions](#setup-instructions)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [File Structure](#file-structure)
+- [Screenshots](#screenshots)
 
 ## Project Overview
 
@@ -61,10 +60,10 @@ Follow these steps to set up and run the project locally:
 2. **Clone the repository**:
 
 ```bash
-git clone https://github.com/yourusername/agriculture-data-visualization.git
+git clone https://github.com/shubhamMadheshiya/agriculture-data-visualization.git
+
 cd agriculture-data-visualization
-npm install
-npm run dev  
+
 ```
 
 3. **Install dependencies:**:
